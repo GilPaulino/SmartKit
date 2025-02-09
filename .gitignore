@@ -1,0 +1,13 @@
+/TextosSalvos/
+bin/
+obj/
+*.sln
+.vscode/
+.vs/
+.vsconfig
+*.log
+/packages/
+publish/
+*.bak
+*~
+*.tmp
